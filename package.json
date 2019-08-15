@@ -4,6 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "geoip-country-lite": "^1.0.0",
+    "geoip-native-lite": "^1.0.0",
+    "geoip-plus": "^0.0.7",
     "netlify-lambda": "^1.6.0"
   },
   "devDependencies": {
