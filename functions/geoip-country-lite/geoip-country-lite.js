@@ -1,4 +1,5 @@
 var geoip = require('geoip-country-lite');
+global.geodatadir = '.'
 
 exports.handler = function(event, context, callback) {
   var ip = "207.97.227.239";
